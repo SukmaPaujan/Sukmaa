@@ -1,0 +1,58 @@
+.body {
+    background-image: url(image/image-1.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.p1 {
+    font-family: serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.img {
+    padding: 0;
+    width: 100px;
+    height: 100px;
+
+}
+
+.test {
+    text-align: center;
+    font-family: serif;
+    color: rgb(17, 17, 17);
+    letter-spacing: 2px;
+    font-size: 70px;
+    text-shadow: 5px 3px 25px #000cff;
+    padding: 5px;
+    border: 2px rgb(37, 37, 37);
+    border-radius: 30px;
+
+}
+
+.bl {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.ttt {
+    color: rgb(20, 20, 20);
+    text-align: center;
+    text-shadow: 10px 13px 30x #00fff3;
+    padding: 5px;
+    border: 2px #000cff;
+    font-family: serif;
+    border-radius: 30px;
+
+}
+
+.all {
+    padding: 5px;
+    border: 5px solid #1a1a1a;
+    font-family: serif;
+    border-radius: 10px;
+
+}
